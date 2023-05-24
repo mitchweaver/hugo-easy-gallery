@@ -2,9 +2,9 @@
 
 ### MITCH'S PERSONAL MAINTAINED FORK
 
-Fixing bugs as I come across them for my personal website as the original maintainer is no longer active
+Fixing bugs as I come across them for my [personal website](https://wvr.sh) as the original maintainer is no longer active
 
-Also filling source our with comments as I try to understand how it works.
+Also filling the source with comments as I try to understand how it works.
 
 Preserving original readme as-is below:
 
