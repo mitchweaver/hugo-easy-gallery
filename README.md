@@ -6,7 +6,13 @@ Fixing bugs as I come across them for my [personal website](https://wvr.sh) as t
 
 Also filling the source with comments as I try to understand how it works.
 
-Preserving original readme as-is below:
+## Notable Changes Merged
+
+1. [no-jquery](https://github.com/liwenyip/hugo-easy-gallery/pull/84), self hosting the jquery resources so we don't need to reach out to cloudflare. Bonus benefit of now being GDPR compliant without any annoying messages.
+
+-------------
+
+# Preserving original readme as-is below:
 
 ---------
 
