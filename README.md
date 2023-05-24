@@ -4,6 +4,8 @@
 
 Fixing bugs as I come across them for my personal website as the original maintainer is no longer active
 
+Also filling source our with comments as I try to understand how it works.
+
 Preserving original readme as-is below:
 
 ---------
