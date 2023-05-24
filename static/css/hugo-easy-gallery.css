@@ -90,7 +90,14 @@ img / a styles
     right: 0;
     top: 0;
     bottom: 0;
+
+    /* ======================================================================== */
+    /* NOTE: "cover" is like 'fill' mode, "contain" preserves image dimensions in the thumbnail */
+    /* ======================================================================== */
+    background-size: contain;
     background-size: cover;
+    /* ======================================================================== */
+
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }
