@@ -1,7 +1,12 @@
 # hugo-easy-gallery
 
-**2022-02-28 - Help wanted:**  Unfortunately I am no longer able to maintain this project myself (I have a busy day job that has nothing to do with web development or computer coding, and any spare time is taken up with family + other committments) so I am looking for collaborators to help maintain this project i.e. review and merge pull requests and help with issues. Thanks to [Kishor Bhat](https://github.com/kishorbhat) and [Emiel Hollander](https://github.com/EmielH]) who have already generously volunteered. We could use a few more collaborators - please email me if you're interested :-)
+### MITCH'S PERSONAL MAINTAINED FORK
 
+Fixing bugs as I come across them for my personal website as the original maintainer is no longer active
+
+Preserving original readme as-is below:
+
+---------
 
 Automagical css image gallery in [Hugo](https://gohugo.io/) using shortcodes, with optional lightbox/carousel gadget using [PhotoSwipe](http://photoswipe.com/) and jQuery.
 
